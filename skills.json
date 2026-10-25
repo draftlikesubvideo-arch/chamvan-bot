@@ -1,0 +1,18 @@
+{
+  "skills": [
+    {
+      "id": "grading",
+      "button_title": "📝 Hỗ trợ chấm điểm",
+      "prompt_file": "grading_persona.md",
+      "type": "vision",
+      "instruction": "Chụp hoặc gửi ảnh bài viết tay của học sinh vào đây để em chấm và gợi ý điểm."
+    },
+    {
+      "id": "exam",
+      "button_title": "📚 Hỗ trợ tạo đề",
+      "prompt_file": "exam_creator_persona.md",
+      "type": "text",
+      "instruction": "Nhập thông tin đề cần soạn (Khối lớp, thời gian, chủ đề hoặc dạng bài)."
+    }
+  ]
+}
