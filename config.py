@@ -1,4 +1,4 @@
-TELEGRAM_BOT_TOKEN = "ĐIỀN_TOKEN_BOT_VỪA_TẠO_Ở_BOTFATHER"
+TELEGRAM_BOT_TOKEN = "8980535059:AAFa9jEFqu3htTiDMQF6bixDVNiho29fYDg"
 
 # ID của bạn lấy từ userinfobot để cấp quyền Admin duy nhất
 ADMIN_ID = 1798224348
