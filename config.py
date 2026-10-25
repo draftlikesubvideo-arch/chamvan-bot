@@ -8,5 +8,5 @@ ROUTER_BASE_URL = "http://127.0.0.1:20128/v1"
 ROUTER_API_KEY = "sk-antigravity"
 
 # Tên mô hình trong 9Router
-VISION_MODEL = "ag/gemini-2.5-pro"  # Đọc ảnh viết tay
-TEXT_MODEL = "ag/claude-sonnet-4"   # Viết đề và biên tập prompt
+VISION_MODEL = "ag/gemini-3.1-pro-high"  # Đọc ảnh viết tay
+TEXT_MODEL = "ag/gemini-3.8-flash-high"   # Viết đề và biên tập prompt
